@@ -38,7 +38,7 @@
 		"@floating-ui/dom": "^0.3.1",
 		"@pinia/nuxt": "^0.1.8",
 		"@unocss/reset": "^0.27.2",
-		"@vueuse/core": "^7.7.0",
+		"@vueuse/core": "7.7.1",
 		"axios": "^0.26.0",
 		"file-saver": "^2.0.5",
 		"nanoid": "^3.3.1",
