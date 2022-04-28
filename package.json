@@ -16,7 +16,7 @@
 		"@typescript-eslint/eslint-plugin": "^5.13.0",
 		"@typescript-eslint/parser": "^5.13.0",
 		"@unocss/nuxt": "^0.27.2",
-		"@vueuse/nuxt": "^7.7.0",
+		"@vueuse/nuxt": "7.7.1",
 		"@windicss/plugin-scrollbar": "^1.2.3",
 		"babel-preset-vue": "^2.0.2",
 		"eslint": "^8.10.0",
