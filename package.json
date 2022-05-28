@@ -35,7 +35,7 @@
 		"vue-eslint-parser": "^8.3.0"
 	},
 	"dependencies": {
-		"@floating-ui/dom": "^0.3.1",
+		"@floating-ui/dom": "0.5.2",
 		"@pinia/nuxt": "^0.1.8",
 		"@unocss/reset": "^0.27.2",
 		"@vueuse/core": "^7.7.0",
