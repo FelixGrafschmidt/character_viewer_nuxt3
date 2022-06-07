@@ -15,7 +15,7 @@
 		"@types/tailwindcss": "3.0.10",
 		"@typescript-eslint/eslint-plugin": "^5.13.0",
 		"@typescript-eslint/parser": "^5.13.0",
-		"@unocss/nuxt": "^0.27.2",
+		"@unocss/nuxt": "0.38.1",
 		"@vueuse/nuxt": "^7.7.0",
 		"@windicss/plugin-scrollbar": "^1.2.3",
 		"babel-preset-vue": "^2.0.2",
