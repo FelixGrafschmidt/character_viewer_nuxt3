@@ -31,7 +31,7 @@
 		"file-saver": "^2.0.5",
 		"floating-vue": "^2.0.0-beta.20",
 		"nanoid": "^4.0.2",
-		"nuxt": "3.5.1",
+		"nuxt": "3.5.3",
 		"nuxt-icon": "^0.4.1",
 		"object-hash": "^3.0.0",
 		"pinia": "^2.1.3",
